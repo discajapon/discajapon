@@ -4,6 +4,7 @@
 
 Asuka is slowly consuming me  
 I like Fanta, I accept it as payment 🐦
+All of me (info, contact, blog etc) on discajapon.com!!
 
 ### ₿ Donate Bitcoin
 
