@@ -1,16 +1,9 @@
-## discajapon DOT com!!!
+# disca_japon discajaponea en la discajaponeria
 
-# Hola, soy disca_japon 🐦🌹✨
+### ₿ Donate Bitcoin
 
-Diseñador gráfico (de GIMP) con credenciales basadas, sobre todo, en lo que dice Google. Humor autocrítico, emojis de más y cero expectativas de tráfico.
+If any of this was useful to you and you want to send me a few satoshis, here's the wallet -v-
 
-## Qué hay por aquí
-- 🖼️ Galería, blog y fotos
-- 📦 Repositorios
-- 📸 Discagram
-- 🔥 Una obsesión de cuatro años con imágenes de Asuka que me consume lentamente
-
-## Dónde encontrarme
-🌐 **[discajapon.com](https://discajapon.com)** · ✉️ disca_japon@proton.me
-
-Acepto pagos en Fanta 🥤
+```
+bc1qmgf6ncula7u0a7qmkrv674ytl3hnvrkqkqm8t2
+```
