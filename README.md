@@ -2,8 +2,8 @@
 
 ### About me
 
-- Asuka is slowly consuming me
-- I like Fanta, I accept it as payment 🐦
+Asuka is slowly consuming me  
+I like Fanta, I accept it as payment 🐦
 
 ### ₿ Donate Bitcoin
 
